@@ -1,7 +1,7 @@
 # PackMen 
 
 ## Description Of The Project: 
-Create as many PackMen you like with each click. 
+Create as many PackMen as you like with each click. 
 Each PackMan picks up a random velocity, bouncing back after collision with walls and changes color from yellow to blue. 
 
 ## How To Run:
